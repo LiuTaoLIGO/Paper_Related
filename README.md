@@ -1,4 +1,4 @@
-# Paper_Related
+# Maps
 
 The randomly generated maps are included since different run would lead to different maps due to the randomness. The rotated maps used in some notebooks are based on the random maps. They are not included. The Zernike maps can be easily generated. They are not included.
 
